@@ -1,0 +1,16 @@
+
+
+
+public class prac_1 {
+
+    public static void main(String[] args) {
+
+        System.out.println("Hello");
+
+        System.out.println("Welcome");
+
+        System.out.println("Java");
+
+    }
+
+}
